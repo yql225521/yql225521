@@ -1,0 +1,27 @@
+[OPTIONS]
+Compatibility=1.1 Or later
+Default Window=Main
+Default topic=D:\jcsoft\jcjxc\help\xtjj.htm
+Default font=Tahoma,8,134
+Contents file=jcjxc.hhc
+Index file=jcjxc.hhk
+Display compile progress=Yes
+Full-text search=Yes
+Language=0x804 中文(中国)
+
+[WINDOWS]
+Main="精诚商业进销存","jcjxc.hhc","jcjxc.hhk","D:\jcsoft\jcjxc\help\xtjj.htm","D:\jcsoft\jcjxc\help\xtjj.htm",,,,,0x20,180,0x104E,[80,60,720,540],0x0,0x0,,,,,0
+
+[FILES]
+cxdy.htm
+jzcl.htm
+lxwm.htm
+sy.htm
+sy.htm
+xtgn.htm
+xtjj.htm
+xtsz.htm
+xtwh.htm
+ywcl.htm
+ywlc.htm
+zhyy.htm
